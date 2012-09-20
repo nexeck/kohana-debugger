@@ -6,7 +6,7 @@
  * @author    Marcel Beck <marcel.beck@outlook.com>
  * @copyright (c) 2012 Marcel Beck
  */
-abstract class Kohana_Debugger
+abstract class Nexeck_Debugger
 {
     /**
      * Formatted files informations
